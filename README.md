@@ -1,4 +1,7 @@
 # Gemini Desktop(非公式)
+
+ℹ️このリポジトリは[旧版](https://github.com/yutajapan2026/Gemini)をインポートしたものです。
+
 [Gemini API](https://github.com/googleapis/python-genai)をwebui化したもの。
 
 ## For Windows
