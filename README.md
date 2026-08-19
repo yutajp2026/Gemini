@@ -5,12 +5,12 @@
 [Gemini API](https://github.com/googleapis/python-genai)をwebui化したもの。
 
 ## For Windows
-[Releases](https://github.com/yutajapan2026/Gemini/releases)にインストーラ版を公開
+[Releases](https://github.com/yutajp2026/Gemini/releases)にインストーラ版を公開
 
 ## For Linux
 Releasesのバージョン(以下$VERSIONとしますが臨機応変に変更してください)を参照して
 ```
-wget -O Gemini.zip https://github.com/yutajapan2026/Bat-To-Exe-Converter-64-Bit/archive/refs/tags/$VERSION.zip
+wget -O Gemini.zip https://github.com/yutajp2026/Gemini/archive/refs/tags/$VERSION.zip
 sudo apt install unzip
 unzip Gemini.zip
 cd Gemini-$VERSION
@@ -19,7 +19,7 @@ bash launch.sh
 で実行したほうが安定します。しかし、常に最新版が欲しいなら、
 ```
 sudo apt-get install git
-git clone https://github.com/yutajapan2026/Gemini.git
+git clone https://github.com/yutajp2026/Gemini.git
 cd Gemini
 bash launch.sh
 ```
