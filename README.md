@@ -8,22 +8,13 @@
 [Releases](https://github.com/yutajp2026/Gemini/releases)にインストーラ版を公開
 
 ## For Linux
-Releasesのバージョン(以下$VERSIONとしますが臨機応変に変更してください)を参照して
-```
-wget -O Gemini.zip https://github.com/yutajp2026/Gemini/archive/refs/tags/$VERSION.zip
-sudo apt install unzip
-unzip Gemini.zip
-cd Gemini-$VERSION
-bash launch.sh
-```
-で実行したほうが安定します。しかし、常に最新版が欲しいなら、
+
 ```
 sudo apt-get install git
 git clone https://github.com/yutajp2026/Gemini.git
 cd Gemini
 bash launch.sh
 ```
-でできますが、ミスでエラーが発生したり関係ないファイルが入っていたりする可能性があります。
 
 ⚠️linux版は自動でブラウザーを開きません。バックエンドに表示されるURLを確認して開いてください。
 
