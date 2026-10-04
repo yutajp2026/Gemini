@@ -1,9 +1,7 @@
 #!/bin/bash
 
-if ! python3 --version >/dev/null 2>&1; then
-    echo "エラー: python3 を実行できません。Python 3 をインストールしてください。" >&2
-    exit 1
-fi
+sudo apt update
+sudo apt install -y python3 python3-venv python3-pip python3-tk fonts-ipafont
 
 echo "仮想環境を作成中..."
 if [ ! -d "venv" ]; then
