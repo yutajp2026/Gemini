@@ -1,5 +1,8 @@
 # Gemini Desktop Japanese (Unofficial)
 
+> [!CAUTION]
+> 競合が発覚したため2027年1月2日にこのリポジトリを削除します。
+
 ℹ️このリポジトリは[旧版](https://github.com/yutajapan2026/Gemini)をインポートしたものです。
 
 [Gemini API](https://github.com/googleapis/python-genai)をwebui化したもの。
