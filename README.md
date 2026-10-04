@@ -2,7 +2,8 @@
 
 > [!CAUTION]
 > 公式との競合が発覚したため2027年1月2日にこのリポジトリを削除します。以後、[公式アプリ](https://gemini.google/jp/desktop/?hl=ja)をお使いください。
-> このアプリの後継となる2アプリを年内公開予定です。
+>
+> また、このアプリの後継となる2アプリ([super-llm-launcher](https://github.com/yutajp2026/super-llm-launcher)、[super-tts-launcher](https://github.com/yutajp2026/super-tts-launcher))を年内公開予定です。
 
 ℹ️このリポジトリは[旧版](https://github.com/yutajapan2026/Gemini)をインポートしたものです。
 
