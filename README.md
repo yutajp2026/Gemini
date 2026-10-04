@@ -17,9 +17,9 @@
 ## Windows
 [Releases](https://github.com/yutajp2026/Gemini/releases)にインストーラ版を公開
 
-## Linux(Ubuntu)
+## Linux(UbuntuなどDebian系のみ対応)
 
-```
+```bash
 sudo apt-get install git
 git clone https://github.com/yutajp2026/Gemini.git
 cd Gemini
